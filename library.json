@@ -1,0 +1,16 @@
+{
+  "title": "VTs Grade Speech",
+  "description": "Grade speech using Whiper ASR API",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "Neal Dam",
+  "license": "MIT",
+  "machineName": "H5P.h5p-vts-grade-speech",
+  "preloadedJs": [
+    {
+      "path": "index.js"
+    }
+  ]
+}
